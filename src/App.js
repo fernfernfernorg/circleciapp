@@ -1,3 +1,4 @@
+// Main source for this project
 import React, { Component } from 'react';
 import words from 'random-words'
 import './App.css';
